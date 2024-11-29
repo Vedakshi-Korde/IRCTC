@@ -1,0 +1,195 @@
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="style.css" rel="stylesheet">
+    </head>
+<body>
+<div id="menu">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBKPDVDdnxmQxhSlViiqnmliU32CVE6luUw&s" height="120" id="irctc2">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQay8sPl-XKr4nnUv-ipDN0ADyd0LHtoSvIBA&s" height="150" id="irctc">
+<button id="btn"><a href="login.html">LOGIN</a></button>
+<button id="btn1"><a href="register.html">REGISTER</a></button>
+<button id="btn2">AGENT LOGIN</button>
+<div class="container mt-3">
+    <button id="btn3" type="button"  class="btn" data-bs-toggle="modal" data-bs-target="#myModal">CONTACT US</button>
+    </div>
+    <div class="modal" id="myModal">
+        <div class="modal-dialog">
+          <div class="modal-content">
+      
+            <!-- Modal Header -->
+            <div class="modal-header">
+              <h4 class="modal-title">You may contact us</h4>
+              <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <b>Customer Care Numbers </b>: 14646 (Language: Hindi and English)
+               <b> For Railway tickets booked through IRCTC
+                General Information
+                I-tickets/e-tickets </b>: care@irctc.co.in
+                <b>For Cancellation E-tickets </b>: etickets@irctc.co.in
+                <b>For IRCTC iMudra Prepaid Wallet & Card </b>: imudracare@irctc.co.in<br><br>
+                
+                
+                For IRCTC SBI Card users who do not receive the card within 01 month from the date of application kindly call on the Railway SBI Card Helpline nos. at 0124-39021212 or 18001801295 (if calling from BSNL/MTNL line) or send email to customercare@sbicard.com. For other queries on your IRCTC SBI card account, kindly email at loyaltyprogram@irctc.co.in<br><br>
+                <b>Registered Office / Corporate Office
+                Indian Railway Catering and Tourism Corporation Ltd.,
+                B-148, 11th Floor, Statesman House,
+                Barakhamba Road, New Delhi 110001</b>
+              </div>
+        
+              <!-- Modal footer -->
+              <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+        </div>
+      </div>
+<button id="btn4">DAILY DEALS</button>
+<button id="btn5">ALERTS</button>
+<button id="btn6" class="dropdown-toggle" data-bs-toggle="dropdown-menu bg-light">IRCTC EXCLUSIVE</button>
+<button id="btn7">TRAINS</button>
+<button id="btn8"><a href="bus.html">BUSES</a></button>
+<button id="btn9"><a href="flight.html">FLIGHTS</a></button>
+<button id="btn10"><a href="resort.html">HOTELS</a></button>
+<button id="btn11">HOLIDAYS</button>
+<button id="btn12">MEALS</button>
+<button id="btn13">PROMOTIONS</button>
+<button id="btn14">MORE</button>
+</div>
+<div id="mainimg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_UMO_j2eb4gPQij8CTxUvzjfJNcFre_fAw&s" height="100%" id="vande">
+<h1>INDIAN RAILWAYS</h1>
+<span>Safety | Security | Punctuality</span>  
+<div id="frm">
+<form method="post" action="TrainServlet">
+<button id="frmbtn">PNR STATUS</button>
+<button id="frmbtn1">CHARTS/VACANCY</button>
+<h2>BOOK TICKET</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKC83gxyaU7i1gQItyVb8Ssm4jbEhyFQY0Nw&s" height="80" id="img1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2VOQR85zMMVfoY31ra62LrIXK45-gIPwCXzB_Jb9OZ1SylD24mRpuiX5I8C3wn6XAcw&usqp=CAU" height="80" id="img2">
+<div id="frm2" class="form-group" mb-3 >
+<input type="text" placeholder="From" id="srh" name="t1" required >
+<input type="date" placeholder="Date" id="dd" class="form-control form-select-lg" name="t3" required><br><br>
+ <input type="text" placeholder="To" id="tosrh"  class="form-control" name="t2" required><br><br>
+ 
+<input type="checkbox" ><label>Persons with Disability</label>
+<input type="checkbox" ><label>Flexiable with Date</label><br><br>
+<input type="checkbox" ><label>Train with Available Berth</label>
+<input type="checkbox" ><label>Railway Pass Concession</label><br><br>
+<button id="btns" onclick="search()" style="color: white; background-color: orange;border: none;border-radius: 5px; padding: 10px;">Search</button>
+<button id="ask" style="float: right;border: none; background-color: limegreen; border-radius: 4px;color: white; padding: 10px">Try Booking in Ask Disha 2.0</button>
+                   
+</div>
+</form>
+</div>
+</div>
+<div id="ask2">
+<img src="https://cdn.jsdelivr.net/gh/corover/assets@11Sept6/askdisha-bucket/launcher.gif" height="150" id="ask" >
+</div>
+<hr>
+<div id="options">
+<h1>Have you not found the right one?<br>
+    Find a service suitable for you here.</h1>
+    <div id="container">
+    <figure>
+        <a href="flight.html">
+        <img src="https://images.vexels.com/content/128926/preview/plane-airport-round-icon-92e3f8.png" height="120" class="img">
+     </a>
+        <figcaption>
+            FLIGHTS
+            </figcaption>
+    </figure>
+    <figure>
+    <a href="resort.html">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ23DLHLDZBsyFHQ72KFQ21gMKboTKPKnACDg&s" height="110" class="img">
+    </a>
+    <figcaption>
+        HOTELS
+        </figcaption>
+    </figure>
+   <figure>
+    <a href="ecatering.html">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiTFd1DIAVCL96d6h2wMLy2TQKb9fyZdgZg&s" height="120" class="img">
+    </a>
+    <figcaption>
+        E-CATERING
+        </figcaption>
+        </figure>
+    <figure>
+        <a href="bus.html">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigwBCfTavmWuDGvwC5yeUHRdmh8nJaoLEAw&s" height="120" class="img">
+    </a>
+    <figcaption>
+        BUS
+        </figcaption>
+        </figure>
+    </div>
+
+    <div id="container2">
+        <figure>
+            <img src="https://t4.ftcdn.net/jpg/02/10/68/59/360_F_210685961_8KUf0EI5EDVoQV3EtpyJS1n4otI4oCpn.jpg" height="120" class="img">
+            <figcaption>
+                HOLIDAY PACKAGES
+                </figcaption>
+        </figure>
+        <figure>
+        <img src="https://as2.ftcdn.net/v2/jpg/04/10/55/73/1000_F_410557310_L1deKJ3r5Dt0JVYD55CivV8t5oHR5fHG.jpg" height="110" class="img">
+        <figcaption>
+            HILL RAILWAYS
+            </figcaption>
+        </figure>
+       <figure>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQavbdn5OjBY3qxgfjFvduRa-4i2EajMgryAQ&s" height="120" class="img">
+        <figcaption>
+            CHARTER
+            </figcaption>
+            </figure>
+        <figure>
+        <img src="https://media.sciencephoto.com/f0/01/35/98/f0013598-800px-wm.jpg" height="120" class="img">
+        <figcaption>
+            TRAINS
+            </figcaption>
+            </figure>
+        </div>
+    
+
+       
+</div>
+<h1>HOLIDAYS</h1>
+<div id="holidays">
+    
+<div class="express">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SvmZIdqJ5g2ynEYAIXs9VfdN-W-LwHSiOA&s" height="170">
+    <h2>Maharajas Express</h2>
+    <p>Redefining Royalty, Luxury and Comfort, Maharajas' express takes you on a sojourn to the era of bygone stately splendour of princely states. Sylvan furnishings, elegant ambience and modern amenities are amalgamated for an “Experience Unsurpassed”. It has been a winner of “World’s Leading Luxury train” by World Travel Awards consecutively for last six years.</p>
+</div>    
+<div class="express">
+    <img src="https://images.indianexpress.com/2018/04/buddist-temple-india_getty_1200.jpg?w=389" height="170">
+    <h2>International Packages</h2>
+    <p>Best deals in International Holiday packages, handpicked by IRCTC, for Thailand, Dubai, Sri Lanka, Hong Kong, China, Macau, Bhutan, Nepal, U.K., Europe, USA, Australia etc. The packages are inclusive of sightseeing, meals, visa charges and overseas medical insurance to give you a hassle-free and memorable experience.</p>
+</div>
+<div class="express">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmi38_7bG7bF5LBZWLOnjNTCFSh4LFvcGyg&s" height="170">
+    <h2>Domestic Air Package</h2>
+    <p>Be it the spiritual devotee seeking blessings of Tirupati, Shirdi or Mata Vaishno Devi or the leisure traveller wanting to relish the Blue mountains of North East, Sand-dunes of Rajasthan, Hamlets of Ladakh, Wonders of Himalayas, Serene lakes or Picturesque Islands, IRCTC has it all. Discover India through IRCTC!</p>
+</div>
+
+</div>
+<div id="holidays2">
+    <div class="express1">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmi38_7bG7bF5LBZWLOnjNTCFSh4LFvcGyg&s" height="150">
+        <h2>Bharat Gaurav Tourist <br>Train</h2>
+        <p>IRCTC operates Bharat Gaurav Tourist Train having AC III-Tier accommodation on train specially designed to promote domestic tourism in India. This train runs on various theme based circuits covering pilgrimage and heritage destinations in its itinerary on a 5 days to 20 days trip and showcase India’s rich cultural heritage</p>
+    </div>
+    <div class="express1">
+        <img src="https://www.patratravels.com/wp-content/uploads/2024/08/Explore-the-Rich-Heritage-and-Natural-Beauty-of-Odisha.png" height="150">
+        <h2>Rail Tour Packages</h2>
+        <p>IRCTC offers Exclusive Rail tour packages with confirmed train tickets, sight-seeing and meals for enchanting Nilgiri Mountains, Darjeeling, Kullu Manali, Kashmir, Gangtok or divine tours of Mata Vaishno Devi, Rameswaram, Madurai, Shirdi, Tirupati etc. Holiday packages/ Land packages to these destinations are also available.</p>  
+    </div>
+</div>
+</body>
+</html>
