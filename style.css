@@ -1,0 +1,1267 @@
+body
+{
+    position: relative;
+}
+
+#irctc2
+{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#irctc
+{
+    float: right;
+}
+#btn
+{
+    border: none;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    top: 25px;
+    left: 24%;
+}
+#btn a
+{
+    text-decoration: none;
+    color: white;
+}
+#btn1
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 25px;
+    left: 30%;
+    cursor: pointer;
+}
+#btn1 a
+{
+    text-decoration: none;
+    color: black;
+}
+#btn2
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 25px;
+    left: 37%;
+    cursor: pointer;
+}
+#btn3
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 25px;
+    left: 45%;
+    cursor: pointer;
+}
+.modal-header
+{
+    background-color: blue;
+    color: white;
+}
+#btn4
+{
+    border: none;
+    background-color: white;
+    color: red;
+    padding: 5px;
+    position: absolute;
+    top: 25px;
+    left: 55%;
+    cursor: pointer;
+}
+#btn5
+{
+    border: none;
+    background-color: gray;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 25px;
+    left: 65%;
+    cursor: pointer;
+}
+#btn6
+{
+    border: none;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 24%;
+    cursor: pointer;
+}
+#drop
+{
+    border: none;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 24%;
+    cursor: pointer;
+}
+#btn7
+{
+    border: none;
+    background-color: white;
+    color: orange;
+    text-decoration: underline;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 34%;
+    cursor: pointer;
+}
+#btn8
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 39%;
+    cursor: pointer;
+}
+#btn8 a
+{
+    text-decoration: none;
+    color: black;
+}
+#btn9
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 45%;
+    cursor: pointer;
+}
+#btn9 a
+{
+    text-decoration: none;
+    color: black;
+}
+#btn10
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 50%;
+    cursor: pointer;
+}
+#btn10 a
+{
+    text-decoration: none;
+    color: black;
+}
+#btn11
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 55%;
+    cursor: pointer;
+}
+#btn12
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 62%;
+    cursor: pointer;
+}
+#btn13
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 67%;
+    cursor: pointer;
+}
+#btn14
+{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    position: absolute;
+    top: 65px;
+    left: 75%;
+    cursor: pointer;
+}
+#mainimg h1
+{
+    color: darkblue;
+    font-family: arial;
+    font-size: 60px;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+#mainimg span
+{
+    color: darkblue;
+    font-family: arial;
+    font-size: 25px;
+    position: absolute;
+    top: 28%;
+    right: 15%
+
+}
+#mainimg #vande
+{
+    width: 100%;
+}
+#mainimg
+{
+    position: relative;
+    padding: 20px;
+}
+#frm
+{
+    background-color: white;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    height: 80%;
+    width: 40%;
+
+}
+#frmbtn
+{
+    width: 50%;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    
+}
+#frmbtn1
+{
+    width: 50%;
+    background-color: darkblue;
+    color: white;
+    padding: 0%;
+    float: right;
+    padding: 5px;
+   
+}
+#img1
+{
+    position: absolute;
+    top: 7%;
+    left: 0%;
+}
+#img2
+{
+ float: right;
+ position: absolute;
+ top: 7%;
+ right: 0%;
+ padding-right: 0%;
+}
+#frm h2
+{
+    color: darkblue;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px;
+    padding: 40px;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    
+    
+}
+
+#frm2
+{
+    position: absolute;
+    left: 0%;
+    top: 30%;
+    margin: 40px;
+}
+#div
+{
+    float: left;
+    width: 55%;
+    margin-left: -16px;
+    display: flex;
+}
+#dd
+{
+    width: 49%;
+    float: right;
+
+}
+#all
+{
+    float: right;
+    padding: 10px;
+    margin-top: -10px;
+    height: 5%;
+    
+}
+#frm input[type=text]
+{
+    padding: 10PX;
+    border-radius: 5PX;
+}
+#options
+{
+    text-align: center;
+    padding: 20px;
+}
+#container
+{
+    margin-left: 25%;
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+#container2
+{
+    margin-left: 25%;
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+ h1
+{
+    text-align: center;
+    padding-top: 20px;
+
+}
+#holidays
+{
+    background-color: gainsboro;
+    display: flex;
+    gap: 0px;
+    padding-top: 10px;
+}
+#holidays p
+{
+    text-align: justify;
+    padding: 10px;
+    font-family: arial;
+}
+#holidays
+{
+   
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+.express
+{   
+    
+    background-color: white;
+    width: 40%;
+    height: 90%;
+    padding-right: 20px;
+    margin: 5px 40px;
+    border: solid 1px lightgrey;
+}
+.express img
+{
+    width: 106%;
+    height: 250px;
+    
+}
+.express h2
+{
+    text-align: center;
+}
+
+#holidays2
+{
+    background-color: gainsboro;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    height: 110%;
+    width: 100%;
+    border: none;
+}
+.express1
+{
+    border: solid 1px gray;
+    height: 90%;
+    width: 24%;
+    background-color: white;
+    padding-left: 10px;
+    margin: 5px 40px;
+
+}
+#holidays2 p
+{
+    text-align: justify;
+    padding: 10px;
+    font-family: arial;
+}
+.express1 img
+{
+    width: 97%;
+    height: 250px;
+    padding-left: -10%;
+    
+}
+#ask2
+{
+    position: absolute;
+    right: 0%;
+    top: 20%;
+   
+}
+#ask
+{
+    position: sticky;
+    top: 20%;
+    right: 0%;
+   
+}
+.img:hover
+{
+    background-color: rgb(51, 51, 136);
+    cursor: pointer;
+}
+#login 
+{
+    width: 70%;
+    height: 60%;
+}
+#loginfrm h1
+{
+    text-align: center;
+    text-decoration: underline;
+    color: darkblue;
+}
+#loginfrm input[type=text]
+{
+    color: darkblue;
+    border: none;
+    width: 100%;
+    padding: 10px;
+}
+input[type=text]:hover
+{
+    border: none;
+    
+}
+#loginfrm
+{
+    
+    height: 160%;
+    width: 50%;
+    box-shadow: 2px 2px 4px gray;
+    padding: 20px;
+}
+#loginfrm input[type=password]
+{
+    color: darkblue;
+    border: none;
+    width: 100%;
+    padding: 10px;
+}
+#loginfrm button
+{
+    border: none;
+    background-color: white;
+    color: rgb(19, 181, 235);
+} 
+#loginfrm img
+{
+    padding: 30px;
+    width: 80%;
+    height: 250px;
+    margin: auto;
+}
+#loginfrm input[type=checkbox]+label
+{
+    color: darkblue;
+   
+}
+#loginfrm #sign
+{
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+#loginfrm #reg
+{
+    border: none;
+    background-color: darkblue;
+    color: white;
+    width: 45%;
+    padding: 10px;
+}
+#loginfrm #reg1
+{
+    border: none;
+    background-color: darkblue;
+    color: white;
+    width: 45%;
+    float: right;
+    padding: 10px;
+}
+#login #modi
+{
+    float: right;
+    height: 500px;
+    width: 50%;
+    position: absolute;
+    top: 15%;
+    right: 5%;
+}
+body
+{
+    position: relative;
+}
+#register
+{
+    background-color: lightblue;
+    width: 100%;
+    height: 150%;
+    padding-top: 30px;
+    
+
+}
+#reg 
+{
+	color: white;
+	text-decoration: none;
+	
+}
+#regfrm
+{
+    background-color: white;
+    border-radius: 10px;
+    height: 80%;
+    width: 60%;
+    padding-left: 10px;
+    padding-top: 20px;
+    position: relative;
+}
+#regfrm h1
+{
+    text-align: left;
+    padding:10px;
+    font-family: arail;
+    font-size: 140%;
+
+}
+#sign1
+{
+    border: none;
+    color: orange;
+    text-decoration: underline;
+    background-color: white;
+    position: absolute;
+    top: 5%;
+    right: 10%;
+}
+#sign1 a
+{
+    color: orange;
+}
+#forgot
+{
+	cursor: pointer;
+}
+
+#basic:hover
+{
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#personal:hover
+{
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#add:hover
+{
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#regfrm hr
+{
+    width: 50%;
+}
+#regfrm form
+{
+    padding: 20px;
+    margin: 10px;
+    height: 90%;
+    
+}
+#regfrm input[type=text]
+{
+    width: 70%;
+}
+#regfrm input[type=password]
+{
+    width: 70%;
+}
+#regbg
+{
+    background-color: lavender;
+    width:80%;
+    height: 90%;
+    margin: auto;
+    border-radius: 20px;
+}
+#cancel
+{
+    background-color: white;
+    color: black;
+    border: solid 1px gray;
+    padding: 10px;
+    width: 20%;
+}
+#continue
+{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    float: right;
+    width: 20%;
+}
+#popup h3
+{
+    background-color: darkblue;
+    text-align: left;
+}
+#popup button
+{
+    background-color: orange;
+    color: white;
+    margin: auto;
+}
+
+
+
+#flight
+{
+    background-color: rgb(192, 235, 250);
+    padding :30px;
+}
+#flight h4
+{
+    color: darkblue;
+    margin-left: 70px;
+    margin-top: -1px;
+    position: absolute;
+    top: 6%;
+    left: 5%;
+}
+#flight h6
+{
+    color: darkblue;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}
+#flight img
+{
+    margin-left: 0%;
+}
+#flight img2
+{
+    float: right;
+}
+#flight span
+{
+    float: right;
+    margin-top: 5%;
+    margin-right: 100px;
+    cursor: pointer;
+}
+#flightfrm
+{
+    position: absolute;
+    top: 38%;
+    left: 10%;
+    background-color: white;
+    padding-top: 5px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 70px;
+
+}
+#flightfrm hr
+{
+   width: 100%;
+}
+#flightfrm input[type=text]
+{
+    border: none;
+}
+#flightfrm button
+{
+ background-color: rgb(255, 215, 0); 
+ border-radius: 50%;  
+ color: darkblue;
+ padding: 15px;
+ font-size: 20px;
+ border: none;
+}
+#flightfrm .check
+{
+    padding-left: 50%;
+    margin: 5px;
+    margin-left: 50px;
+}
+#flightfrm span
+{
+    margin: 3px;
+}
+#flightfrm span:hover
+{
+    background-color: darkblue;
+    color: white;
+}
+#block1
+{
+    margin: auto;
+    padding-left: 200px;
+    position: absolute;
+    top: 69%;
+    left: 10%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px gray;
+}
+#iconimg
+{
+    background-color: darkblue;
+    width: 100%;
+    height: 20%;
+   gap: 100%;
+   margin-top: 150px;
+}
+#iconimg img
+{
+    
+    background-color:transparent ;
+    margin: 20px;
+    margin-left: 80px;
+    
+}
+#iconimg img:hover
+{
+    background-color: yellow;
+    cursor: pointer;
+}
+#faq h2
+{
+    text-align: center;
+}
+#resort img
+{
+    width: 100%;
+    height: 100%;
+}
+#resort
+{
+    position: relative;
+}
+#resort h2
+{
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    cursor: pointer;
+}
+#resort #tour
+{
+    height: 60;
+    width: 70;
+    position: absolute;
+    top: 0%;
+    left: 30%;
+}
+#resort #ir
+{
+    height: 70px;
+    width: 120px;
+    position: absolute;
+    top: 0%;
+    right: 10%;
+}
+#con1
+{
+    position: absolute;
+    top: 4%;
+    right: 20%;
+    background-color:  rgb(144, 144, 240);
+    color: white;
+    padding: 5px;
+    border: solid 1px white;
+
+}
+#con2
+{
+    position: absolute;
+    top: 4%;
+    right: 30%;
+    background-color: rgb(144, 144, 240);
+    color: white;
+    padding: 5px;
+    border: solid 1px white;
+
+}
+#resort h1 
+{
+    color: rgb(250, 191, 40);
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    text-shadow: 0px 0px 5px black;
+
+}
+#resort h3
+{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+   font-family: 'Times New Roman';
+
+}
+#resortfrm
+{
+    position: absolute;
+    top: 38%;
+    left: 5%;
+    background-color: white;   
+    padding: 20px;
+    border-radius: 10px;
+    gap: 10px;
+}
+#resortfrm button
+{
+    background-color: rgb(30, 180, 231);
+    padding:10px 30px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+}
+#resortfrm button:hover
+{
+    background-color: rgb(5, 141, 187);
+}
+#resortfrm #select
+{
+    padding: 10px;
+}
+#resortbook
+{
+    background-color: rgb(3, 170, 225);
+    position: absolute;
+    top: 68%;
+    left: 5%;
+    width: 90%;
+    padding: 5px 10px;
+    border-radius: 30px;
+
+}
+#resortbook
+{
+    display: flex;
+}
+#resortbook .book
+{
+    width: 35%;
+    height: 35%;
+    margin: 30px;
+    
+}
+#cater
+{
+    position: relative;
+}
+#cater #d1
+{
+    float: right;
+    color: black;
+    border: none;
+    padding: 20px;
+    position: absolute;
+    top: 3%;
+    right: 30%;
+    background-color:  white;
+    cursor: pointer;
+    font-size: 25px;
+}
+#d1 a
+{
+    color: black;
+    text-decoration: none;
+}
+#cater #down
+{
+    position: absolute;
+    right: 45%;
+    top: 30%;
+}
+#cater #grp
+{
+    float: right;
+    color: black;
+    border: none;
+    padding: 20px;
+    position: absolute;
+    top: 3%;
+    right: 14%;
+    background-color:  white;
+    cursor: pointer;
+    font-size: 25px;
+}
+#cater #grp1
+{
+    position: absolute;
+    right: 28%;
+    top: 30%;
+}
+#cater #logo1
+{
+    float: right;
+    color: black;
+    border: none;
+    padding: 20px;
+    position: absolute;
+    top: 3%;
+    right: 2%;
+    background-color:  white;
+    cursor: pointer;
+    font-size: 25px;
+}
+#cater #logo
+{
+    position: absolute;
+    right: 12%;
+    top: 30%;
+}
+#street
+{
+    
+}
+#street #foodtrack
+{
+    position: absolute;
+    top: 30%;
+    right: 45%;
+    border-radius: 30%;
+}
+#street h1
+{
+    color: white;
+    text-shadow: 50%;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    text-align: center;
+    text-shadow: 0px 0px 10px black;
+    font-size: 50px;
+
+}
+#street form
+{
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    text-align: center;
+    text-shadow: 0px 0px 10px black;
+    border: none;
+    padding: 30;
+   
+}
+#street form button
+{
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 45%;
+    margin: 10;
+    padding: 20;
+    font-size: 20px;
+}
+#advertise
+{
+    background-color: rgb(247, 245, 245);
+}
+#advertise1
+{
+    color: darkblue;
+    padding: 100px;
+    margin: 70;
+    position: absolute;
+    top: 90%;
+    left: 2%;
+    background-color: white;
+    
+    
+    
+}
+#caterimg
+{
+    position: absolute;
+    left: -12%;
+    top: 30%;
+    background-color: white;
+}
+#advertise1 p
+{
+    position: absolute;
+    top: 30%;
+    right: -50%;
+    color: black;
+    font-size: 23px;
+}
+#advertise1 img
+{
+    position: absolute;
+    right:-120%;
+    top: 30%;
+}
+#advertise2
+{
+    position: absolute;
+    top: 150%;
+    left: 10%;
+    
+    
+}
+
+#advertise2 p
+{
+    font-size: 20px;
+    font-family: calibary;
+}
+#advertise2 button
+{
+    color: orange;
+    border-radius: 10%;
+    border-color: orange;
+    background-color: white;
+    position: absolute;
+    right: -80%;
+    top: 50%;
+    padding: 20px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+#brands
+{
+    position: absolute;
+    top: 190%;
+    left: 0%;
+}
+#bus
+{
+    position: relative;
+    background-color: light rgb(235, 211, 211);
+}
+#g
+{
+    position: absolute;
+    top: 8%;
+    left: 30%;
+}
+#irctcright
+{
+    float: right;
+}
+#cont
+{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    border: none;
+    background-color: white;
+    color: rgb(131, 104, 104);
+    cursor: pointer;
+}
+#log
+{
+    position: absolute;
+    top: 10%;
+    left: 80%;
+    border: none;
+    background-color: white;
+    color: rgb(131, 104, 104);
+    cursor: pointer;
+}
+#busimg
+{
+    position: relative;
+}
+#busimg #bus1
+{
+    position: absolute;
+    top: 64%;
+    left: 10%;
+    
+}
+#busimg #bus2
+{
+    position: absolute;
+    top: 64%;
+    left: 70%;
+    
+}
+
+#busmenu
+{
+    background-color: rgb(30, 30, 207);
+    padding: 35;
+    gap: 20%;
+    height: 230;
+    
+}
+#cruise
+{
+    float: right;
+    position: absolute;
+    right: 10%;
+}
+#lounge
+{
+    position: absolute;
+    right: 25%;
+}
+#beed
+{
+    position: absolute;
+    right: 37%;
+}
+#busess
+{
+    position: absolute;
+    right: 53%;
+}
+#build
+{
+    position: absolute;
+    right: 68%;
+}
+#fly
+{
+    position: absolute;
+    right: 85%;
+}
+#busmenu h1
+{
+    color: white;
+    position: absolute;
+    top: 75%;
+    right: 40%;
+}
+#busmenu form
+{
+    background-color: white;
+    position: absolute;
+    top: 85%;
+    right: 10%;
+    width: 70%;
+    padding: 40;
+    border: none;
+    gap: 30;
+}
+#busmenu input[type=text]
+{
+    border: none;
+}
+#busmenu input[type=date]
+{
+    border: none;
+}
+#busmenu input[type=submit]
+{
+    border : none;
+    color: blue;
+    border-radius: 40%;
+    background-color: rgb(250, 217, 32);
+    padding: 30;
+    position: absolute;
+    right: 20%;
+    top: 20%;
+
+}
+
+#for
+{
+	float: right;
+	
+}
+#mainforgot
+{
+	text-align: center;
+}
+#mainforgot input[type=text]
+{
+	padding:20px;
+	width: 50%;
+}
+#mainforgot button
+{
+	background-color: orange;
+	border: none;
+	color: white;
+	border-radius: 20px;
+	padding: 15px;
+	width: 25%;
+}
+#mainforgot #cap
+{
+	color: white;
+	background-color: #0000a0;
+	text-align: center;
+		
+}
+
+
+
+
+
+
+
